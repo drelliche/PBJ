@@ -51,15 +51,16 @@ Less fluffy breads that can still be used for sandwiches, enumerated from my mos
 2. tortillas
 3. matzah
 
-***********
-Peanut and Other Butters
-***********
+
+### Peanut and Other Butters
 
 Peanut butter is not the only type of "butter" you can use:
 
+| | | |
+|-|-|-|
+|Peanut Butter:| Traditional, but peanuts are a common allergy.| more|
+|Sunflower Seed Butter: | more|Nut-free butter avoids most allergies.|
 
-Peanut Butter: Traditional, but peanuts are a common allergy.
-Sunflower Seed Butter:  Nut-free butter avoids most allergies.
 Cashew Butter: Cashew butter is more expensive than peanut butter, but cashews can also be more delicious than peanuts.
 Almond Butter: Traditional, but peanuts are a common allergy.
 Hazelnut and Chocolate Butter:  Nutella can be used instead of or in addition to the traditional peanut butter.
@@ -87,13 +88,13 @@ Assembly
 
 Video of Joy making a sandwich
 
-***********
-Consumption
-***********
+
+## Consumption
+
 
 What are the instructions for eating a peanut butter and jelly sandwich?
 
-
+```
 while SANDWICH
   take a bite
   chew
@@ -101,10 +102,11 @@ while SANDWICH
 
   if THIRSTY
     drink beverage
+```
 
-These pseudocode instructions could also be written in a particular language, like Python:
+These pseudocode instructions could also be written in a particular language, like `Python`:
 
-
+```python
 while SANDWICH:
 
   my_bite = bite(SANDWICH)
@@ -115,6 +117,7 @@ while SANDWICH:
 
   if THIRSTY == TRUE:
     drink_beverage
+```
 
     ***********
     Sandwich Quiz
